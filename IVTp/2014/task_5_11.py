@@ -5,7 +5,7 @@
 #Лохина Л. М.
 #14.03.2016
 import random
-n = random.randint (1,10)
+n = random.randint (1,9)
 
 if n==1:
 	print ("Стремительный")
